@@ -1,0 +1,4 @@
+{
+    "key" : "[BOT_TOKEN]",
+    "mongoPath" : "[MONGODB_PATH_URL]"
+}
